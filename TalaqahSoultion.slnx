@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Talaqah.Application/Talaqah.Application.csproj" />
+  <Project Path="Talaqah.Domain/Talaqah.Domain.csproj" />
+  <Project Path="Talaqah.Infrastructure/Talaqah.Infrastructure.csproj" />
+  <Project Path="Talaqah.Persistence/Talaqah.Persistence.csproj" />
+  <Project Path="Talaqah.WebAPI/Talaqah.WebAPI.csproj" />
+</Solution>

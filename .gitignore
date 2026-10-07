@@ -1,0 +1,28 @@
+DBScript.sql
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Build output
+**/[Bb]in/
+**/[Oo]bj/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# NuGet packages
+*.nupkg
+
+# Secrets / user-local app settings (use User Secrets or environment variables instead)
+appsettings.*.json
+!appsettings.json
